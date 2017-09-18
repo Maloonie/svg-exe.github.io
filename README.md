@@ -1,2 +1,3 @@
 # svg-exe.github.io
-Website project for school.
+This is a website project for school.
+feel free to leave comments :)
