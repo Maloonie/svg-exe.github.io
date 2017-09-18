@@ -6,7 +6,7 @@ font-size: 24px
 body{
 margin-right: auto;
 text-align: center;
-background: url(https://static.pexels.com/photos/33109/fall-autumn-red-season.jpg) no-repeat center center fixed;
+background: url('https://static.pexels.com/photos/33109/fall-autumn-red-season.jpg') no-repeat center center fixed;
 background-repeat:no-repeat;
 }
 
