@@ -11,16 +11,6 @@ background-repeat:no-repeat;
 }
 
 .box {
-border-radius: 25px;
-background:#000;
-background: rgba(255,255,255,0.8);
-margin: auto;
-padding: 20;
-width: 1000px
-}
-
-
-.dbox {
 background:#000;
 background: rgba(255,255,255,0.8);
 margin: auto;
